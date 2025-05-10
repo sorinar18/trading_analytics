@@ -10,8 +10,8 @@ A simple REST API for submitting and analyzing commodity trade data.
 
 ```bash
 
-git clone https://github.com/YOUR_USERNAME/trading-analytics.git
-cd trading-analytics
+git clone https://github.com/sorinar18/trading_analytics.git
+cd trading_analytics
 ```
 ### 2️⃣ Run with Maven
 ```bash
@@ -23,8 +23,8 @@ cd trading-analytics
 ### 3️⃣ Run with Docker (optional)
 ```bash
 
-docker build -t trading-analytics .
-docker run -p 8080:8080 trading-analytics
+docker build -t trading_analytics.
+docker run -p 8080:8080 trading_analytics
 ```
 ## 📖 API Documentation
 Swagger UI is available at:
