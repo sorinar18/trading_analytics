@@ -1,0 +1,142 @@
+[
+    {
+        "commodity": "Gold",
+        "traderId": "T001",
+        "price": 2025.75,
+        "quantity": 50,
+        "timestamp": "2025-05-10T10:00:00Z"
+    },
+    {
+        "commodity": "Silver",
+        "traderId": "T002",
+        "price": 25.30,
+        "quantity": 500,
+        "timestamp": "2025-05-10T10:05:00Z"
+    },
+    {
+        "commodity": "Crude Oil",
+        "traderId": "T003",
+        "price": 85.15,
+        "quantity": 200,
+        "timestamp": "2025-05-10T10:10:00Z"
+    },
+    {
+        "commodity": "Natural Gas",
+        "traderId": "T004",
+        "price": 2.75,
+        "quantity": 1000,
+        "timestamp": "2025-05-10T10:15:00Z"
+    },
+    {
+        "commodity": "Brent Oil",
+        "traderId": "T005",
+        "price": 89.50,
+        "quantity": 150,
+        "timestamp": "2025-05-10T10:20:00Z"
+    },
+    {
+        "commodity": "Copper",
+        "traderId": "T006",
+        "price": 4.10,
+        "quantity": 800,
+        "timestamp": "2025-05-10T10:25:00Z"
+    },
+    {
+        "commodity": "Platinum",
+        "traderId": "T007",
+        "price": 950.20,
+        "quantity": 40,
+        "timestamp": "2025-05-10T10:30:00Z"
+    },
+    {
+        "commodity": "Palladium",
+        "traderId": "T008",
+        "price": 1420.00,
+        "quantity": 30,
+        "timestamp": "2025-05-10T10:35:00Z"
+    },
+    {
+        "commodity": "Aluminum",
+        "traderId": "T009",
+        "price": 1.20,
+        "quantity": 1200,
+        "timestamp": "2025-05-10T10:40:00Z"
+    },
+    {
+        "commodity": "Zinc",
+        "traderId": "T010",
+        "price": 2.50,
+        "quantity": 900,
+        "timestamp": "2025-05-10T10:45:00Z"
+    },
+    {
+        "commodity": "Corn",
+        "traderId": "T011",
+        "price": 6.35,
+        "quantity": 1000,
+        "timestamp": "2025-05-10T10:50:00Z"
+    },
+    {
+        "commodity": "Wheat",
+        "traderId": "T012",
+        "price": 6.25,
+        "quantity": 1100,
+        "timestamp": "2025-05-10T10:55:00Z"
+    },
+    {
+        "commodity": "Soybeans",
+        "traderId": "T013",
+        "price": 13.50,
+        "quantity": 950,
+        "timestamp": "2025-05-10T11:00:00Z"
+    },
+    {
+        "commodity": "Coffee",
+        "traderId": "T014",
+        "price": 1.85,
+        "quantity": 700,
+        "timestamp": "2025-05-10T11:05:00Z"
+    },
+    {
+        "commodity": "Cocoa",
+        "traderId": "T015",
+        "price": 3.20,
+        "quantity": 650,
+        "timestamp": "2025-05-10T11:10:00Z"
+    },
+    {
+        "commodity": "Cotton",
+        "traderId": "T016",
+        "price": 0.85,
+        "quantity": 1500,
+        "timestamp": "2025-05-10T11:15:00Z"
+    },
+    {
+        "commodity": "Sugar",
+        "traderId": "T017",
+        "price": 0.19,
+        "quantity": 3000,
+        "timestamp": "2025-05-10T11:20:00Z"
+    },
+    {
+        "commodity": "Lumber",
+        "traderId": "T018",
+        "price": 520.00,
+        "quantity": 60,
+        "timestamp": "2025-05-10T11:25:00Z"
+    },
+    {
+        "commodity": "Iron Ore",
+        "traderId": "T019",
+        "price": 125.00,
+        "quantity": 400,
+        "timestamp": "2025-05-10T11:30:00Z"
+    },
+    {
+        "commodity": "Nickel",
+        "traderId": "T020",
+        "price": 18.75,
+        "quantity": 550,
+        "timestamp": "2025-05-10T11:35:00Z"
+    }
+]
